@@ -13,7 +13,6 @@ class Library:
             if member.user_id == user.user_id:
                 return f"User with id = {user.user_id} already registered in the library!"
         self.user_records.append(user)
-        # self.rented_books[user.username] = {}
 
     def remove_user(self, user) -> Union[str, None]:
         for member in self.user_records:
@@ -31,10 +30,6 @@ class Library:
                 new_rented_books = {(name if name != member.username else new_username):data  for name, data in self.rented_books.items()}
                 member.username = new_username
                 self.rented_books = new_rented_books
-
-                # rented_data = self.rented_books[member.username]
-                # self.rented_books.pop(member.username)
-                # self.rented_books[new_username] = rented_data
 
                 return f"Username successfully changed to: {new_username} for userid: {user_id}"
         return f"There is no user with id = {user_id}!"

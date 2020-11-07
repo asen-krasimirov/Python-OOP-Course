@@ -25,7 +25,6 @@ class User:
             self.books.append(book_name)
             return f"{book_name} successfully rented for the next {days_to_return} days!"
 
-
         searched_days = library.book_return_days[book_name]
         return f'The book "{book_name}" is already rented and will be available in {searched_days} days!'
 

@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d08988cc-1f83-400a-a31c-7cc7d59d1bb0" name="Default Changelist" comment="" />
+    <list default="true" id="d08988cc-1f83-400a-a31c-7cc7d59d1bb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 1- Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 2- Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 3- Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 4- Hotelm Rooms/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 4- Hotelm Rooms/project/hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 4- Hotelm Rooms/project/room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 1- Photo Album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World/project/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World/project/movie_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/project/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/project/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/project/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 3- Documment Managment/project/topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/exercise_plan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/subscription.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/04-Encapsulation-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/04-Encapsulation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 1- Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 2- Email Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 3- Mamal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 4- Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Encapsulation/4.2 Exercises/04-Encapsulation-Exercise.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/project/library.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/project/library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/project/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/project/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/03-Attributes-and-Methods-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/03-Attributes-and-Methods-Exercise (1).docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python-OOP-Course" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jNZmJeroiKxQqY4kH41D9o8AxE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,27 +66,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4. Encapsulation" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\4. Encapsulation\4.2 Exercises" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\4. Encapsulation\4.1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\3. Attributes and Methods\3.1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\1. Defining Classes\1.2 Exercises\Problem 9- Todo List" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\1. Defining Classes\1.2 Exercises" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\Probelm 6- Polemon Battle" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\1. Defining Classes\1.1 Lab" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\4. Encapsulation" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\3. Attributes and Methods\3.2 Exercises" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\3. Attributes and Methods" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\2. Classes and Instances\2.2 Exercises" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\2. Classes and Instances\2.1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\1. Defining Classes\1.2 Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Problem 3- Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Problem 4- Account">
+    <configuration name="Problem 1- Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 3- Account.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 1- Person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 4- Employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 2- Email Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 4- Employee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 2- Email Validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 5- Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 3- Mamal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 5- Time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 3- Mamal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 6- Pizza Delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 4- Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 6- Pizza Delivery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Encapsulation/4.1 Lab/Problem 4- Account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 2- Movie World/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Problem 6- Pizza Delivery" />
-        <item itemvalue="Python.Problem 5- Time" />
-        <item itemvalue="Python.Problem 4- Employee" />
-        <item itemvalue="Python.Problem 3- Account" />
+        <item itemvalue="Python.Problem 4- Account" />
+        <item itemvalue="Python.Problem 3- Mamal" />
+        <item itemvalue="Python.Problem 2- Email Validator" />
+        <item itemvalue="Python.Problem 1- Person" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,58 +223,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1240" y="413" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604155236291" />
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1604161883702">
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1604674041968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604161883702" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1603979840008">
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604674041968" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1604674544963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603979840008" />
-    <state width="1025" height="205" key="GridCell.Tab.0.bottom" timestamp="1604163339144">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604674544963" />
+    <state width="936" height="220" key="GridCell.Tab.0.bottom" timestamp="1604677184125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.0.center" timestamp="1604163339144">
+    <state width="936" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604677184125" />
+    <state width="936" height="220" key="GridCell.Tab.0.center" timestamp="1604677184124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.0.left" timestamp="1604163339144">
+    <state width="936" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604677184124" />
+    <state width="936" height="220" key="GridCell.Tab.0.left" timestamp="1604677184124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.0.right" timestamp="1604163339144">
+    <state width="936" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604677184124" />
+    <state width="936" height="220" key="GridCell.Tab.0.right" timestamp="1604677184125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.1.bottom" timestamp="1604163339144">
+    <state width="936" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604677184125" />
+    <state width="1899" height="291" key="GridCell.Tab.1.bottom" timestamp="1604644423726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.1.center" timestamp="1604163339144">
+    <state width="1899" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604644423726" />
+    <state width="1899" height="291" key="GridCell.Tab.1.center" timestamp="1604644423726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.1.left" timestamp="1604163339144">
+    <state width="1899" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604644423726" />
+    <state width="1899" height="291" key="GridCell.Tab.1.left" timestamp="1604644423726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state width="1025" height="205" key="GridCell.Tab.1.right" timestamp="1604163339144">
+    <state width="1899" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604644423726" />
+    <state width="1899" height="291" key="GridCell.Tab.1.right" timestamp="1604644423726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1025" height="205" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604163339144" />
-    <state x="592" y="246" width="998" height="708" key="SettingsEditor" timestamp="1603895596656">
+    <state width="1899" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604644423726" />
+    <state x="592" y="246" width="998" height="708" key="SettingsEditor" timestamp="1604643037158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="246" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603895596656" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604324347109">
+    <state x="592" y="246" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604643037158" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604642972068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604324347109" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604162158928">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604642972068" />
+    <state x="990" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604504507214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604162158928" />
+    <state x="990" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604504507214" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604672926818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604672926818" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -265,14 +309,29 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/project/user.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/2. Classes and Instances/2.2 Exercises/Problem 7- Library/main.py</url>
           <line>19</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 2- Integer.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Attributes and Methods/3.1 Lab/Problem 4- Hotelm Rooms/main.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/main.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/repeated_stirng.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
