@@ -17,7 +17,8 @@ class CPULoad:
     def __init__(self):
         self.collected_load = []
 
-    def get_cpu_load(self, period: 'seconds' = 5, start_time=datetime.now()):
+    def get_cpu_load(self, period: 'seconds' = 5):
+        start_time = datetime.now()
 
         self.collected_load.clear()
         loc_measurements = []

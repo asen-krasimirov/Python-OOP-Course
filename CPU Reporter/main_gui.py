@@ -15,7 +15,7 @@ def send_email_():
     lbl5.grid(column=1, row=8)
 
 
-grid_height = 600
+grid_height = 300
 grid_width = 700
 
 
