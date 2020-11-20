@@ -6,29 +6,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d08988cc-1f83-400a-a31c-7cc7d59d1bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/06-Polymorphism-Lab (1).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/06-Polymorphism.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/Problem 1- Execute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/Problem 2- Instruments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/Problem 3- Shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/Problem 4- ImageArea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/06-Polymorphism-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 1- Vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 2- Groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 3- Account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/animals/birds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/animals/mammals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Polymorphism and Magic Methods/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. SOLID/7.1 Lab/07-SOLID-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. SOLID/7.1 Lab/07-SOLID.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. SOLID/7.2 Exercises/07-SOLID-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AttributeDict/attributedict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/test_one.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Inheritance/5.2 Exercises/~$-Inheritance-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe.manifest" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,28 +54,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../more python sise projects" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\7. SOLID\7.2 Exercises" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\7. SOLID\7.1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\6. Polymorphism and Magic Methods\6.1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\6. Polymorphism and Magic Methods\6.2 Exercises" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\4. Encapsulation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\project" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\vehicle" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\technology" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\6. Polymorphism and Magic Methods\6.2 Exercises\Problem 4- Wild Farm\project\animals" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\filecreator" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\File Creator" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 1- Person\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Problem 2- Groups" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.report_formatter">
+    <configuration name="dict_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,74 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 2- Groups.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem 3- Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 3- Account.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="files (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/animals" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project/animals/files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Game\Desktop\Python-OOP\6. Polymorphism and Magic Methods\6.2 Exercises\Problem 4- Wild Farm\project\animals\files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +104,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CPU Reporter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 4- Wild Farm/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CPU Reporter/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="report_formatter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CPU Reporter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CPU Reporter/report_formatter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="report_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CPU Reporter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CPU Reporter/report_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="report_sender" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CPU Reporter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CPU Reporter/report_sender.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.report_formatter" />
+        <item itemvalue="Python.dict_demo" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.files (1)" />
-        <item itemvalue="Python.files" />
-        <item itemvalue="Python.Problem 3- Account" />
-        <item itemvalue="Python.Problem 2- Groups" />
+        <item itemvalue="Python.report_sender" />
+        <item itemvalue="Python.report_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +216,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605218875664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6. Polymorphism and Magic Methods">
+      <created>1605359205875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605359205875</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5. Adding Solution if an inheritance problem">
+      <created>1605457683779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605457683779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding Solution to a Dotabble Dict">
+      <created>1605457774353</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605457774353</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Solution to  Dotable Dict">
+      <created>1605539253287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605539253287</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,25 +267,29 @@
     <option name="LIMIT_HISTORY" value="false" />
     <MESSAGE value="Creating The Game of Life" />
     <MESSAGE value="5. Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Inheritance" />
+    <MESSAGE value="6. Polymorphism and Magic Methods" />
+    <MESSAGE value="5. Adding Solution if an inheritance problem" />
+    <MESSAGE value="Adding Solution to a Dotabble Dict" />
+    <MESSAGE value="Adding Solution to  Dotable Dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Solution to  Dotable Dict" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="178" key="#Inspections" timestamp="1604845378123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1604845378123" />
-    <state x="1130" y="353" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1604746219049">
+    <state x="1130" y="353" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1605448402991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1130" y="353" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604746219049" />
+    <state x="1130" y="353" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605448402991" />
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605181619271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605181619271" />
-    <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605174851020">
+    <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605707535322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605174851020" />
+    <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605707535322" />
     <state x="1240" y="413" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1604155236291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,82 +298,82 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1187" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1605272280894" />
-    <state x="983" y="115" key="CommitChangelistDialog2" timestamp="1605359175887">
+    <state x="983" y="115" key="CommitChangelistDialog2" timestamp="1605539252157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="983" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605359175887" />
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1605358369674">
+    <state x="983" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605539252157" />
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1605628824344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605358369674" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1605217199879">
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605628824344" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1605734900406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605217199879" />
-    <state width="1899" height="56" key="GridCell.Tab.0.bottom" timestamp="1605359175905">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605734900406" />
+    <state width="1899" height="62" key="GridCell.Tab.0.bottom" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="56" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605359175905" />
-    <state width="1899" height="56" key="GridCell.Tab.0.center" timestamp="1605359175905">
+    <state width="1899" height="62" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.0.center" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="56" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605359175905" />
-    <state width="1899" height="56" key="GridCell.Tab.0.left" timestamp="1605359175905">
+    <state width="1899" height="62" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.0.left" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="56" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605359175905" />
-    <state width="1899" height="56" key="GridCell.Tab.0.right" timestamp="1605359175905">
+    <state width="1899" height="62" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.0.right" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="56" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605359175905" />
-    <state width="1899" height="196" key="GridCell.Tab.1.bottom" timestamp="1605275431840">
+    <state width="1899" height="62" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.1.bottom" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="196" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605275431840" />
-    <state width="1899" height="196" key="GridCell.Tab.1.center" timestamp="1605275431839">
+    <state width="1899" height="62" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.1.center" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="196" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605275431839" />
-    <state width="1899" height="196" key="GridCell.Tab.1.left" timestamp="1605275431839">
+    <state width="1899" height="62" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.1.left" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="196" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605275431839" />
-    <state width="1899" height="196" key="GridCell.Tab.1.right" timestamp="1605275431839">
+    <state width="1899" height="62" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
+    <state width="1899" height="62" key="GridCell.Tab.1.right" timestamp="1605726495594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="196" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605275431839" />
+    <state width="1899" height="62" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605726495594" />
     <state x="924" y="238" key="RollbackChangesDialog" timestamp="1605218691359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="924" y="238" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605218691359" />
-    <state x="889" y="83" width="998" height="708" key="SettingsEditor" timestamp="1605020334911">
+    <state x="889" y="83" width="998" height="708" key="SettingsEditor" timestamp="1605734763270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="889" y="83" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605020334911" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1604765944678">
+    <state x="889" y="83" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605734763270" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605456552185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1604765944678" />
-    <state x="1032" y="241" key="Vcs.Push.Dialog.v2" timestamp="1605218877584">
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1605456552185" />
+    <state x="1032" y="241" key="Vcs.Push.Dialog.v2" timestamp="1605539255147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605218877584" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605343214873">
+    <state x="1032" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605539255147" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605734887573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605343214873" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605734887573" />
     <state x="990" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605189740161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="990" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605189740161" />
-    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605218697072">
+    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605617734859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605218697071" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605359092631">
+    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605617734859" />
+    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup" timestamp="1605713662343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605359092631" />
+    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605713662343" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -429,11 +454,6 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DottableDict/dottabledict.py</url>
-          <line>58</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.1 Lab/Problem 2- Instruments.py</url>
           <line>13</line>
           <option name="timeStamp" value="66" />
@@ -447,6 +467,26 @@
           <url>file://$PROJECT_DIR$/6. Polymorphism and Magic Methods/6.2 Exercises/Problem 2- Groups.py</url>
           <line>53</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DottableDict/dottabledict.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7. SOLID/SOLID LAB/04_ISP/entertainment_system.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7. SOLID/SOLID LAB/05_DIP/print_books.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dict_demo.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
