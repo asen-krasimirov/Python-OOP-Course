@@ -1,8 +1,6 @@
 import main
 from tkinter import *
 import tkinter.font as font
-# from tkinter.ttk import *
-import time
 
 
 def send_email_():
@@ -13,6 +11,10 @@ def send_email_():
     elif selected.get() == 2:
         main.send_plaint_text_email(generation_seconds)
     lbl5.grid(column=1, row=8)
+
+
+def escape_():
+    exit()
 
 
 grid_height = 300
@@ -49,6 +51,12 @@ txt.focus()
 #send button
 send_button = Button(window, text='Send Email', command=send_email_)
 send_button.grid(column=1, row=7)
+
+#escape button
+send_button = Button(window, text='Exit Application', command=escape_)
+send_button.grid(column=3, row=8)
+
+
 #radio buttons
 selected = IntVar()
 

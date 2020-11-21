@@ -17,7 +17,8 @@ class CPUReport:
 
     def _format_report(self):
         report = self._generate_report()
-        return self._formatter(report)
+        average_report = sum(list(self._generator)) / len(self._generator)
+        return self._formatter(report, average_report)
     
     def send_email(self):
         report = self._format_report()
@@ -48,7 +49,7 @@ def send_plaint_text_email(seconds):
 def send_pdj_email(seconds):
     reporter = CPUGraphReporter(seconds)
     reporter.send_email()
-        
+
 
 def main():
 

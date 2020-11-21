@@ -37,7 +37,6 @@ def send_pdf_email(report: None, generation_seconds: int):
         part = MIMEBase("application", "octet-stream")
         part.set_payload(attachment.read())
     
-    
     encoders.encode_base64(part)
     part.add_header(
     "Content-Disposition",
