@@ -6,30 +6,21 @@ class vowels:
     def __init__(self, string: str):
         self.string = string
         self.index = 0
-        self.vowel_chars = ''
-        self._get_vowels()
 
     @staticmethod
     def is_vowel(char_: str):
-        if char_.lower() not in 'aeiouy':
-            return False
-        return True
-
-    def _get_vowels(self):
-        for char in self.string:
-            if self.is_vowel(char):
-                self.vowel_chars += char
+        return char_.lower() in 'aeiouy'
 
     def __iter__(self):
         return self
 
     def __next__(self):
-        cur_idx, self.index = self.index, self.index + 1
-        if cur_idx >= len(self.vowel_chars):
-            raise StopIteration
-
-        if self.is_vowel(self.vowel_chars[cur_idx]):
-            return self.vowel_chars[cur_idx]
+        while self.index < len(self.string):
+            char = self.string[self.index]
+            self.index += 1
+            if self.is_vowel(char):
+                return char
+        raise StopIteration
 
 
 if __name__ == '__main__':
