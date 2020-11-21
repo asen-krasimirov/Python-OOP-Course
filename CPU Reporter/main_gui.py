@@ -26,10 +26,10 @@ window.geometry(f'{grid_width}x{grid_height}')
 window.title("CPU Reporter")
 sent = False
 
-#button font
+# button font
 myFont = font.Font(size=20)
 
-#labels
+# labels
 lbl = Label(window, text="        ", font=("Arial Bold", 50))
 lbl2 = Label(window, text="         ", font=("Arial Bold", 50))
 lbl3 = Label(window, text="Send CPU report via email.", font=("Arial Bold", 20))
@@ -43,21 +43,21 @@ lbl4.grid(column=1, row=5)
 if sent:
     lbl5.grid(column=1, row=6)
 
-#entry for generation_seconds
+# entry for generation_seconds
 txt = Entry(window,width=10)
 txt.grid(column=1, row=6)
 txt.focus()
 
-#send button
+# send button
 send_button = Button(window, text='Send Email', command=send_email_)
 send_button.grid(column=1, row=7)
 
-#escape button
+# escape button
 send_button = Button(window, text='Exit Application', command=escape_)
 send_button.grid(column=3, row=8)
 
 
-#radio buttons
+# radio buttons
 selected = IntVar()
 
 rad1 = Radiobutton(window,text='Send Graph Report', value=1, variable=selected)

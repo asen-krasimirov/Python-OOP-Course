@@ -16,7 +16,7 @@ class CPULoad:
 
     def __init__(self):
         self.collected_load = []
-        self.index = -1
+        # self.index = -1
 
     def get_cpu_load(self, period: 'seconds' = 5):
         start_time = datetime.now()
@@ -32,19 +32,22 @@ class CPULoad:
             loc_measurements.append(psutil.cpu_percent(interval=0.1))
         return self.collected_load
 
-    def __iter__(self):
-        return self
+    # def __iter__(self):
+    #     return self
 
-    def __next__(self):
-        self.index += 1
-        if self.index >= len(self.collected_load):
-            raise StopIteration
-        val = self.collected_load[self.index][1]
-        # val = float(val.split('%')[0])
-        return val
+    # def __repr__(self):
+    #     return self.collected_load
 
-    def __len__(self):
-        return len(self.collected_load)
+    # def __next__(self):
+        # self.index += 1
+        # if self.index >= len(self.collected_load):
+        #     raise StopIteration
+        # val = self.collected_load[self.index][1]
+        # # val = float(val.split('%')[0])
+        # return val
+
+    # def __len__(self):
+    #     return len(self.collected_load)
 
 
 if __name__ == "__main__":

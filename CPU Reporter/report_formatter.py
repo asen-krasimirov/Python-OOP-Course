@@ -1,22 +1,23 @@
 from typing import List
 from datetime import datetime
+from average import get_average_report
 import matplotlib.pyplot as plt
 
 
-def format_to_text(report: List[list], average_report: float):
+def format_to_text(report: List[list]):
 
+    average_report = f"Average CPU load: {get_average_report(report) :.2f} %"
     for i in range(len(report)):
         report[i] = [datetime.strftime(report[i][0], "%H:%M:%S:%f"), f'{report[i][1] :.2f} %']
-    average_report = f"Average CPU load: {average_report :.2f} %"
 
     return '\n'.join(' -> '.join(elem) for elem in report) + '\n' + average_report
 
 
-def format_to_pdf(report: List[list], average_report: float):
+def format_to_pdf(report: List[list]):
 
     times = [elem[0] for elem in report]
     measurements = [elem[1] for elem in report]
-    average_report = f"Average CPU load: {average_report :.2f} %"
+    average_report = f"Average CPU load: {get_average_report(report) :.2f} %"
 
     plt.plot(times, measurements, color='red', marker='o', )
     plt.title(average_report, fontsize=10)
