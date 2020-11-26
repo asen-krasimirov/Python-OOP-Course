@@ -8,8 +8,8 @@ from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 
 
-email = "test.testing.tested.testring@gmail.com"
-password = "5MvK+FywPvsUMd?9q-w#"
+email = "test@gmail.com"  # your email
+password = "password"  # your password
 
 message = MIMEMultipart("alternative")
 message["From"] = 'един приятел'
