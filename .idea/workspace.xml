@@ -6,29 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d08988cc-1f83-400a-a31c-7cc7d59d1bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/08-Iterators-and-Generators-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/08-Iterators-and-Generators.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 1- Custom Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 2- Reverse Iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 3- Vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 4- Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 5- Generator Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 6- Reverse string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/08-Iterators-and-Generators-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 1- Take Skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 2- Dictionary Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 3- Countdown Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 4- Sequence Repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 5- Take Halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 6- Fibonacci Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 7- Reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 8- Prime Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPU Reporter/average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 5- Cache.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPU Reporter/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU Reporter/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPU Reporter/main_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU Reporter/main_gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPU Reporter/report_formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU Reporter/report_formatter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CPU Reporter/report_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CPU Reporter/report_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py" beforeDir="false" afterPath="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_stirng.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,28 +40,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.2 Exercises" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\7. SOLID\7.2 Exercises" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\7. SOLID\7.1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\6. Polymorphism and Magic Methods\6.1 Lab" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators\9. 1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\project" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\vehicle" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\technology" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators\9. 2 Exercises" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators\9. 1 Lab" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.2 Exercises" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.1 Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem 9- Possible permutations">
-    <configuration name="Problem 5- Take Halves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Problem 5- Cache">
+    <configuration name="Problem 1- Logged" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 5- Take Halves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 1- Logged.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 6- Fibonacci Generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 2- Even Paremeters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 6- Fibonacci Generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 7- Reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 3- Bold, Italic, Underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 7- Reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 3- Bold, Italic, Underline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 8- Prime Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 4- Type Check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 8- Prime Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 4- Type Check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 9- Possible permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem 5- Cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 9- Possible permutations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 5- Cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,19 +189,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main_gui" />
-      <item itemvalue="Python.Problem 5- Take Halves" />
-      <item itemvalue="Python.Problem 6- Fibonacci Generator" />
-      <item itemvalue="Python.Problem 7- Reader" />
-      <item itemvalue="Python.Problem 8- Prime Numbers" />
-      <item itemvalue="Python.Problem 9- Possible permutations" />
+      <item itemvalue="Python.Problem 1- Logged" />
+      <item itemvalue="Python.Problem 2- Even Paremeters" />
+      <item itemvalue="Python.Problem 3- Bold, Italic, Underline" />
+      <item itemvalue="Python.Problem 4- Type Check" />
+      <item itemvalue="Python.Problem 5- Cache" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem 9- Possible permutations" />
-        <item itemvalue="Python.Problem 8- Prime Numbers" />
-        <item itemvalue="Python.Problem 7- Reader" />
-        <item itemvalue="Python.Problem 6- Fibonacci Generator" />
-        <item itemvalue="Python.Problem 5- Take Halves" />
+        <item itemvalue="Python.Problem 5- Cache" />
+        <item itemvalue="Python.Problem 2- Even Paremeters" />
+        <item itemvalue="Python.Problem 1- Logged" />
+        <item itemvalue="Python.Problem 3- Bold, Italic, Underline" />
+        <item itemvalue="Python.Problem 4- Type Check" />
       </list>
     </recent_temporary>
   </component>
@@ -313,11 +295,56 @@
       <option name="project" value="LOCAL" />
       <updated>1605951250142</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Final touches to CPU Email Reporter">
+      <created>1605970929437</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605970929437</updated>
+    </task>
+    <task id="LOCAL-00013" summary="8. Iterators and Generators">
+      <created>1605970963213</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605970963213</updated>
+    </task>
+    <task id="LOCAL-00014" summary="8. Iterators and Generators">
+      <created>1605975892583</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605975892583</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Making a Password Manager">
+      <created>1606156995856</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606156995856</updated>
+    </task>
+    <task id="LOCAL-00016" summary="9. Decorators">
+      <created>1606252874004</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606252874004</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -343,7 +370,10 @@
     <MESSAGE value="CPU Email Repoeter" />
     <MESSAGE value="CPU Email Reporter" />
     <MESSAGE value="Final touches to CPU Email Reporter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final touches to CPU Email Reporter" />
+    <MESSAGE value="8. Iterators and Generators" />
+    <MESSAGE value="Making a Password Manager" />
+    <MESSAGE value="9. Decorators" />
+    <option name="LAST_COMMIT_MESSAGE" value="9. Decorators" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="178" key="#Inspections" timestamp="1604845378123">
@@ -370,66 +400,66 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1187" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1605272280894" />
-    <state x="983" y="115" key="CommitChangelistDialog2" timestamp="1605951248968">
+    <state x="983" y="115" key="CommitChangelistDialog2" timestamp="1606252872640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="983" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605951248968" />
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1605958969275">
+    <state x="983" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606252872640" />
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1606252846132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605958969275" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1605734900406">
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606252846132" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1606137141018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605734900406" />
-    <state width="936" height="260" key="GridCell.Tab.0.bottom" timestamp="1605970641012">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606137141018" />
+    <state width="936" height="345" key="GridCell.Tab.0.bottom" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605970641012" />
-    <state width="936" height="260" key="GridCell.Tab.0.center" timestamp="1605970641012">
+    <state width="936" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="936" height="345" key="GridCell.Tab.0.center" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="260" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605970641012" />
-    <state width="936" height="260" key="GridCell.Tab.0.left" timestamp="1605970641012">
+    <state width="936" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="936" height="345" key="GridCell.Tab.0.left" timestamp="1606298906067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="260" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605970641012" />
-    <state width="936" height="260" key="GridCell.Tab.0.right" timestamp="1605970641012">
+    <state width="936" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906067" />
+    <state width="936" height="345" key="GridCell.Tab.0.right" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="260" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605970641012" />
-    <state width="936" height="346" key="GridCell.Tab.1.bottom" timestamp="1605969655988">
+    <state width="936" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="936" height="345" key="GridCell.Tab.1.bottom" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605969655988" />
-    <state width="936" height="346" key="GridCell.Tab.1.center" timestamp="1605969655988">
+    <state width="936" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="936" height="345" key="GridCell.Tab.1.center" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605969655988" />
-    <state width="936" height="346" key="GridCell.Tab.1.left" timestamp="1605969655988">
+    <state width="936" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="936" height="345" key="GridCell.Tab.1.left" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605969655988" />
-    <state width="936" height="346" key="GridCell.Tab.1.right" timestamp="1605969655988">
+    <state width="936" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="936" height="345" key="GridCell.Tab.1.right" timestamp="1606298906068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605969655988" />
+    <state width="936" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
     <state x="924" y="238" key="RollbackChangesDialog" timestamp="1605218691359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="924" y="238" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605218691359" />
-    <state x="889" y="83" width="998" height="708" key="SettingsEditor" timestamp="1605955320083">
+    <state x="889" y="83" width="998" height="708" key="SettingsEditor" timestamp="1606241942991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="889" y="83" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605955320083" />
+    <state x="889" y="83" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606241942991" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1605456552185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1605456552185" />
-    <state x="1032" y="241" key="Vcs.Push.Dialog.v2" timestamp="1605951267196">
+    <state x="1032" y="241" key="Vcs.Push.Dialog.v2" timestamp="1606252875992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605951267196" />
+    <state x="1032" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606252875992" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605734887573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -442,10 +472,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605617734859" />
-    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup" timestamp="1605970640938">
+    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup" timestamp="1606292115815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605970640938" />
+    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606292115815" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -494,11 +524,6 @@
           <url>file://$PROJECT_DIR$/3. Attributes and Methods/3.2 Exercises/Problem 4- Gym/main.py</url>
           <line>15</line>
           <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/repeated_stirng.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/The Game of Life/main.py</url>
@@ -556,11 +581,6 @@
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dict_demo.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/8. Iterators and Generators/8.1 Lab/Problem 1- Custom Range.py</url>
           <line>14</line>
           <option name="timeStamp" value="83" />
@@ -579,6 +599,16 @@
           <url>file://$PROJECT_DIR$/8. Iterators and Generators/8.2 Exercises/Problem 6- Fibonacci Generator.py</url>
           <line>11</line>
           <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 1- Logged.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
