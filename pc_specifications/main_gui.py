@@ -34,6 +34,7 @@ canvas.create_window((0, 0), window=second_frame, anchor='nw')
 
 
 hardware_information_text = f""" Your PC specifications: 
+
 Operating System: \n{information['OS']}
 
 CPU(s): \n{information['CPU(s)']}
