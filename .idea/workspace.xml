@@ -188,12 +188,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main_gui" />
       <item itemvalue="Python.Problem 1- Logged" />
       <item itemvalue="Python.Problem 2- Even Paremeters" />
       <item itemvalue="Python.Problem 3- Bold, Italic, Underline" />
       <item itemvalue="Python.Problem 4- Type Check" />
       <item itemvalue="Python.Problem 5- Cache" />
+      <item itemvalue="Python.main_gui" />
     </list>
     <recent_temporary>
       <list>
