@@ -6,11 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d08988cc-1f83-400a-a31c-7cc7d59d1bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 5- Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Workshop HashTable/Workshop-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Workshop HashTable/main/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Workshop HashTable/tests/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP - Exam Preparation - 2 April 2020/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py" beforeDir="false" afterPath="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repeated_stirng.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,28 +40,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP Exam 16 August 2020 - System Split" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators\9. 1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\project" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\5. Inheritance\5.2 Exercises\Problem 6- Mix it\vehicle" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\12. Workshop HashTable\tests" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\12. Workshop HashTable\main" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\Exams\Python OOP - Exam Preparation - 2 April 2020" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\Exams\skeleton" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Desktop\Python-OOP\12. Workshop HashTable" />
+      <recent name="C:\Users\Game\Desktop\Python-OOP\11. Design Patterns\11. 1 Lab" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators\9. 2 Exercises" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators" />
       <recent name="C:\Users\Game\Desktop\Python-OOP\9. Decorators\9. 1 Lab" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.2 Exercises" />
-      <recent name="C:\Users\Game\Desktop\Python-OOP\8. Iterators and Generators\8.1 Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem 5- Cache">
-    <configuration name="Problem 1- Logged" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tests">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,95 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12. Workshop HashTable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 1- Logged.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem 2- Even Paremeters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem 3- Bold, Italic, Underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 3- Bold, Italic, Underline.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem 4- Type Check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 4- Type Check.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem 5- Cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 5- Cache.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Game\Desktop\Python-OOP\12. Workshop HashTable\main\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,21 +103,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12. Workshop HashTable" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Game\Desktop\Python-OOP\12. Workshop HashTable\tests\tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.TestHashTable" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestHashTable&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.TestHashTable.test_hash_returns_proper_index" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.TestHashTable.test_hash_returns_proper_index&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/12. Workshop HashTable/tests/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Problem 1- Logged" />
-      <item itemvalue="Python.Problem 2- Even Paremeters" />
-      <item itemvalue="Python.Problem 3- Bold, Italic, Underline" />
-      <item itemvalue="Python.Problem 4- Type Check" />
-      <item itemvalue="Python.Problem 5- Cache" />
       <item itemvalue="Python.main_gui" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.tests" />
+      <item itemvalue="Python tests.Unittests in tests.py" />
+      <item itemvalue="Python tests.Unittests for tests.TestHashTable.test_hash_returns_proper_index" />
+      <item itemvalue="Python tests.Unittests for tests.TestHashTable" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem 5- Cache" />
-        <item itemvalue="Python.Problem 2- Even Paremeters" />
-        <item itemvalue="Python.Problem 1- Logged" />
-        <item itemvalue="Python.Problem 3- Bold, Italic, Underline" />
-        <item itemvalue="Python.Problem 4- Type Check" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python tests.Unittests for tests.TestHashTable" />
+        <item itemvalue="Python tests.Unittests in tests.py" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests for tests.TestHashTable.test_hash_returns_proper_index" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +309,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606252874004</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="10. Testing">
+      <created>1606723454715</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606723454715</updated>
+    </task>
+    <task id="LOCAL-00018" summary="11. Design Patterns">
+      <created>1606920568228</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606920568229</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +366,9 @@
     <MESSAGE value="8. Iterators and Generators" />
     <MESSAGE value="Making a Password Manager" />
     <MESSAGE value="9. Decorators" />
-    <option name="LAST_COMMIT_MESSAGE" value="9. Decorators" />
+    <MESSAGE value="10. Testing" />
+    <MESSAGE value="11. Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="11. Design Patterns" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="178" key="#Inspections" timestamp="1604845378123">
@@ -400,50 +395,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1187" y="378" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1605272280894" />
-    <state x="983" y="115" key="CommitChangelistDialog2" timestamp="1606252872640">
+    <state x="983" y="115" key="CommitChangelistDialog2" timestamp="1606920567195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="983" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606252872640" />
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1606252846132">
+    <state x="983" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606920567195" />
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog" timestamp="1607080634353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606252846132" />
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1606137141018">
+    <state x="1052" y="92" width="776" height="856" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607080634353" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1607080633463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606137141018" />
-    <state width="936" height="345" key="GridCell.Tab.0.bottom" timestamp="1606298906068">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607080633463" />
+    <state width="1899" height="490" key="GridCell.Tab.0.bottom" timestamp="1606924843381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
-    <state width="936" height="345" key="GridCell.Tab.0.center" timestamp="1606298906068">
+    <state width="1899" height="490" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843381" />
+    <state width="1899" height="490" key="GridCell.Tab.0.center" timestamp="1606924843381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
-    <state width="936" height="345" key="GridCell.Tab.0.left" timestamp="1606298906067">
+    <state width="1899" height="490" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843381" />
+    <state width="1899" height="490" key="GridCell.Tab.0.left" timestamp="1606924843381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906067" />
-    <state width="936" height="345" key="GridCell.Tab.0.right" timestamp="1606298906068">
+    <state width="1899" height="490" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843381" />
+    <state width="1899" height="490" key="GridCell.Tab.0.right" timestamp="1606924843381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
-    <state width="936" height="345" key="GridCell.Tab.1.bottom" timestamp="1606298906068">
+    <state width="1899" height="490" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843381" />
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1606924843377">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
-    <state width="936" height="345" key="GridCell.Tab.1.center" timestamp="1606298906068">
+    <state width="1899" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843377" />
+    <state width="1899" height="352" key="GridCell.Tab.1.center" timestamp="1606924843377">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
-    <state width="936" height="345" key="GridCell.Tab.1.left" timestamp="1606298906068">
+    <state width="1899" height="352" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843377" />
+    <state width="1899" height="352" key="GridCell.Tab.1.left" timestamp="1606924843377">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
-    <state width="936" height="345" key="GridCell.Tab.1.right" timestamp="1606298906068">
+    <state width="1899" height="352" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843377" />
+    <state width="1899" height="352" key="GridCell.Tab.1.right" timestamp="1606924843377">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606298906068" />
+    <state width="1899" height="352" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606924843377" />
     <state x="924" y="238" key="RollbackChangesDialog" timestamp="1605218691359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -456,10 +451,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1605456552185" />
-    <state x="1032" y="241" key="Vcs.Push.Dialog.v2" timestamp="1606252875992">
+    <state x="1032" y="241" key="Vcs.Push.Dialog.v2" timestamp="1606920569872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606252875992" />
+    <state x="1032" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606920569872" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605734887573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -468,14 +463,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="990" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605189740161" />
-    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605617734859">
+    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606837248731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605617734859" />
-    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup" timestamp="1606292115815">
+    <state x="915" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606837248731" />
+    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup" timestamp="1606924729060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606292115815" />
+    <state x="1103" y="212" width="672" height="696" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606924729060" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -609,6 +604,11 @@
           <url>file://$PROJECT_DIR$/9. Decorators/9. 2 Exercises/Problem 2- Even Paremeters.py</url>
           <line>22</line>
           <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12. Workshop HashTable/main/main.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

@@ -1,0 +1,3 @@
+[console_scripts]
+passwordgenerator = passwordgenerator.pwgenerator:main
+
